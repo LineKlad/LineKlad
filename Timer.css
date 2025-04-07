@@ -1,0 +1,31 @@
+.menu {
+    position: relative;
+    left: 30px;
+    top: 100px;
+    height: 100px;
+ }
+
+ #tip {
+    position: relative;
+    left: 500px;
+    bottom: 300px;
+ }
+
+ #lip {
+    position: relative;
+    left: 500px;
+    bottom: 290px;
+ }
+
+ p {
+    font-family: "PT Sans Caption", "Arial", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+ }
+
+ div {
+   font-family: "PT Sans Caption", "Arial", sans-serif;
+   font-weight: bold;
+   display: flex;
+   
+ }
